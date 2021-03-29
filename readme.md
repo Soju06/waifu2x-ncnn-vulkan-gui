@@ -41,6 +41,7 @@ ffmpeg output list를 사용할 수 있으며, ~~문자열 정렬때문에 버�
 ## 와 엄청나!
 
 원본
+
 <img src="https://github.com/nihui/waifu2x-ncnn-vulkan/raw/master/images/0.jpg" width="70%" title="dnjs본" alt="dnjs본"></img>
 
 
