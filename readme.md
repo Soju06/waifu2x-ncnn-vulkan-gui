@@ -26,9 +26,9 @@ ffmpeg output list를 사용할 수 있으며, ~~문자열 정렬때문에 버�
 
 ## ㄷㅏ운로드
 
-[여기]()서 다운하든ㄷ가 말드ㄴ가
+[v2 여기](https://github.com/Soju06/waifu2x-ncnn-vulkan-gui/releases/download/v2/v2.zip)서 다운하든ㄷ가 말드ㄴ가
 
-v1도 있는데 스레드 기능 없어서 안씀ㅋㅋㄹㅃㅃ
+[v1](https://github.com/Soju06/waifu2x-ncnn-vulkan-gui/releases/download/v1/v1.zip)도 있는데 스레드 기능 없어서 안씀ㅋㅋㄹㅃㅃ
 
 ## 사용방법
 
@@ -41,13 +41,11 @@ v1도 있는데 스레드 기능 없어서 안씀ㅋㅋㄹㅃㅃ
 ## 와 엄청나!
 
 원본
-
-![origin](https://github.com/nihui/waifu2x-ncnn-vulkan/raw/master/images/0.jpg)
-
+<img src="https://github.com/nihui/waifu2x-ncnn-vulkan/raw/master/images/0.jpg" width="70%" title="dnjs본" alt="dnjs본"></img>
 
 
-업스케일링된!
+업스케일링된! * 1
 
-![waifu2x](https://github.com/nihui/waifu2x-ncnn-vulkan/raw/master/images/2.png)
+<img src="https://github.com/nihui/waifu2x-ncnn-vulkan/raw/master/images/2.png" width="70%" title="업스케일링된" alt="업스케일링된"></img>
 
 와! 대다내!
