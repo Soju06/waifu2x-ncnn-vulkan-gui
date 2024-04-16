@@ -14,29 +14,19 @@ waifu2x-ncnn-vulkan의 GUI도구입니다.
 
 커스텀 모델은 기존 모델을 변경해야 합니다.
 
-ffmpeg output list를 사용할 수 있으며, ~~문자열 정렬때문에 버그가 있던거같은데 기억이 안나네..ㅋㅋ~~
+ffmpeg output list를 사용할 수 있습니다.
 
-~~사실 이 프로그램을 만들게 된 이유가 애니 업스케일링할려 했는데 한 편에 예상 시간이 188시간이여서 포기함~~
+## 다운로드
 
-1년 전에 만들었으니 이제 업뎃 안합뉘다
+[v2 여기](https://github.com/Soju06/waifu2x-ncnn-vulkan-gui/releases/download/v2/v2.zip)
 
-버그도 좀 있던거같은데 ~~알아서 고치세요~~
-
-~~코드 상태를 보면 보면 몸이 IDE 창을 닫습니다~~
-
-## ㄷㅏ운로드
-
-[v2 여기](https://github.com/Soju06/waifu2x-ncnn-vulkan-gui/releases/download/v2/v2.zip)서 다운하든ㄷ가 말드ㄴ가
-
-[v1](https://github.com/Soju06/waifu2x-ncnn-vulkan-gui/releases/download/v1/v1.zip)도 있는데 스레드 기능 없어서 안씀ㅋㅋㄹㅃㅃ
+[v1](https://github.com/Soju06/waifu2x-ncnn-vulkan-gui/releases/download/v1/v1.zip)
 
 ## 사용방법
 
 파일 추가 방법
 
 ![드라ㅏㅂ](https://user-images.githubusercontent.com/34199905/112802655-6731f000-90ad-11eb-848b-77ab93b6ad3c.png)
-
-더 알려달라고요? 귀챃ㄴ아요
 
 ## 와 엄청나!
 
